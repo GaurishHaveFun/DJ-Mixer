@@ -1,0 +1,24 @@
+/** @type {import('tailwindcss').Config} */
+export default {
+  content: [
+    "./index.html",
+    "./src/**/*.{js,ts,jsx,tsx}",
+  ],
+  theme: {
+    extend: {
+      colors: {
+        spotify: {
+          green: '#1DB954',
+          black: '#191414',
+          darkgray: '#282828',
+          lightgray: '#B3B3B3',
+        },
+        deck: {
+          a: '#FF6B6B',
+          b: '#4ECDC4',
+        }
+      },
+    },
+  },
+  plugins: [],
+}

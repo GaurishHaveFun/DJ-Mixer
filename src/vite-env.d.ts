@@ -1,0 +1,16 @@
+/// <reference types="vite/client" />
+
+interface ImportMetaEnv {
+  readonly VITE_SPOTIFY_CLIENT_ID: string
+  readonly VITE_SPOTIFY_REDIRECT_URI: string
+}
+
+interface ImportMeta {
+  readonly env: ImportMetaEnv
+}
+
+// Spotify Web Playback SDK types
+interface Window {
+  onSpotifyWebPlaybackSDKReady: () => void
+  Spotify: typeof Spotify
+}
