@@ -21,6 +21,15 @@ The interface includes:
 - An effects pad with clickable buttons
 - A track browser for loading tracks to either deck
 
+<img width="1686" height="931" alt="Screenshot 2026-01-28 at 10 57 57 AM" src="https://github.com/user-attachments/assets/ab990408-8a09-4d85-81b2-36c49fbf9b4f" />
+
+<img width="1676" height="848" alt="Screenshot 2026-01-28 at 10 56 47 AM" src="https://github.com/user-attachments/assets/0e1a4f8d-1e3d-4274-b57a-69521da4538a" />
+
+<img width="1684" height="934" alt="Screenshot 2026-01-28 at 10 56 36 AM" src="https://github.com/user-attachments/assets/565aa6e5-92a7-4c09-8889-8d81cf53c57e" />
+
+<img width="1701" height="940" alt="Screenshot 2026-01-28 at 10 56 01 AM" src="https://github.com/user-attachments/assets/3eb4fcaa-d779-473c-bb92-da38214e506c" />
+
+
 ## Getting Started
 
 ### Prerequisites
